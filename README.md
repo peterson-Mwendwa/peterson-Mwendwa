@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=peterson-mwendwa" alt="peterson-mwendwa" /></a> </p>
 
-- 🔭 I’m currently working on Am learning on creaing web3 based projects. **DEFI**
+- 🔭 I’m currently working on Am learning on creating web3 based projects. **DEFI**
 
 - 🌱 I’m currently learning smart contract auditing and blockchain development **SOLIDITY,FOUNDRY AND WEB3.JS**
 
 - 👯 I’m looking to collaborate on blockchain based development and javascript projects. **DAPP**
 
-- 🤝 I’m looking for help with blockchain development. **NFT**
+- 🤝 I’m looking for help with blockchain development. **NFTS**
 
 - 💬 Ask me about **JAVASCRIPT,PYTHON,SOLIDITY,FOUNDRY,WEB3.JS**
 
