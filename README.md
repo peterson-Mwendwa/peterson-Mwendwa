@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=peterson-mwendwa" alt="peterson-mwendwa" /></a> </p>
 
-- 🔭 I’m currently working on Am learning on creating web3 based projects. **DEFI**
+- 🔭 I’m currently working on  learning about creating web3 based projects. **DEFI**
 
 - 🌱 I’m currently learning smart contract auditing and blockchain development **SOLIDITY,FOUNDRY AND WEB3.JS**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **petersonmwendwa903@gmail.com**
 
-- ⚡ Fun fact **A forex trader**
+- ⚡ Fun fact **A Passionate forex trader**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
