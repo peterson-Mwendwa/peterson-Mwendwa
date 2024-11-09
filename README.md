@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on blockchain based development and javascript projects. **DAPP**
 
-- 🤝 I’m looking for help with blockchain development. **NFTS**
+- 🤝 I’m looking for collaboration in blockchain development. **NFTS**
 
 - 💬 Ask me about **JAVASCRIPT,PYTHON,SOLIDITY,FOUNDRY,WEB3.JS**
 
