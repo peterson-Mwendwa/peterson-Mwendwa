@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valilian Peterson Mwendwa.</h1>
-<h3 align="center">A passionate frontend blockchain developer and a security Auditor.</h3>
+<h3 align="center">A passionate frontend blockchain developer and a Security Auditor.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peterson-mwendwa&label=Profile%20views&color=0e75b6&style=flat" alt="peterson-mwendwa" /> </p>
 
