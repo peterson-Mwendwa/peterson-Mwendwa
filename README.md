@@ -21,8 +21,8 @@
 <p align="left">
 <a href="https://twitter.com/@pet38305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@pet38305" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/peterson mwendwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peterson mwendwa" height="30" width="40" /></a>
-    <a href="mailto:petersonmwendwa903@gmail.com" style="all: unset; cursor: pointer;">
-        <img align="centre" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<a href="mailto:petersonmwendwa903@gmail.com" style="all: unset; cursor: pointer;">
+<img align="centre" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
 </p>
 
